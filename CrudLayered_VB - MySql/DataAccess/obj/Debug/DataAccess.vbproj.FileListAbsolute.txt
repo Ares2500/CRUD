@@ -1,0 +1,58 @@
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\DataAccess\bin\Debug\DataAccess.xml
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.vbprojAssemblyReference.cache
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.Resources.resources
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.cache
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.vbproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.xml
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Luis\Desktop\CrudLayered_VB\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Luis\Desktop\CrudLayered_VB\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Luis\Desktop\CrudLayered_VB\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Luis\Desktop\CrudLayered_VB\DataAccess\bin\Debug\DataAccess.xml
+C:\Users\Luis\Desktop\CrudLayered_VB\DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\Luis\Desktop\CrudLayered_VB\DataAccess\bin\Debug\Google.Protobuf.dll
+C:\Users\Luis\Desktop\CrudLayered_VB\DataAccess\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Luis\Desktop\CrudLayered_VB\DataAccess\bin\Debug\MySql.Data.xml
+C:\Users\Luis\Desktop\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.vbprojAssemblyReference.cache
+C:\Users\Luis\Desktop\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.Resources.resources
+C:\Users\Luis\Desktop\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.cache
+C:\Users\Luis\Desktop\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.vbproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.vbproj.CopyComplete
+C:\Users\Luis\Desktop\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Luis\Desktop\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.xml
+C:\Users\Luis\Desktop\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\DataAccess\bin\Debug\DataAccess.xml
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\DataAccess\bin\Debug\Google.Protobuf.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\DataAccess\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\DataAccess\bin\Debug\MySql.Data.xml
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.vbprojAssemblyReference.cache
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.Resources.resources
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.cache
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.vbproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.vbproj.CopyComplete
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.xml
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\DataAccess\bin\Debug\DataAccess.xml
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\DataAccess\bin\Debug\Google.Protobuf.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\DataAccess\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\DataAccess\bin\Debug\MySql.Data.xml
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\DataAccess\obj\Debug\DataAccess.vbprojAssemblyReference.cache
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\DataAccess\obj\Debug\DataAccess.Resources.resources
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.cache
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\DataAccess\obj\Debug\DataAccess.vbproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\DataAccess\obj\Debug\DataAccess.vbproj.CopyComplete
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\DataAccess\obj\Debug\DataAccess.xml
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\DataAccess\obj\Debug\DataAccess.pdb

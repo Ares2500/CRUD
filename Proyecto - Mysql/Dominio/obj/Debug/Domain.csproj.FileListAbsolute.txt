@@ -1,0 +1,35 @@
+C:\Users\Luis\Documents\Tutoriales\Proyecto\Dominio\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Luis\Documents\Tutoriales\Proyecto\Dominio\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Tutoriales\Proyecto\Dominio\bin\Debug\Domain.dll
+C:\Users\Luis\Documents\Tutoriales\Proyecto\Dominio\bin\Debug\Domain.pdb
+C:\Users\Luis\Documents\Tutoriales\Proyecto\Dominio\bin\Debug\DataAccess.dll
+C:\Users\Luis\Documents\Tutoriales\Proyecto\Dominio\bin\Debug\DataAccess.pdb
+C:\Users\Luis\Documents\Tutoriales\Proyecto\Dominio\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Luis\Documents\Tutoriales\Proyecto\Dominio\obj\Debug\Domain.dll
+C:\Users\Luis\Documents\Tutoriales\Proyecto\Dominio\obj\Debug\Domain.pdb
+C:\Users\Luis\Desktop\Crud\Proyecto\Dominio\bin\Debug\Domain.dll
+C:\Users\Luis\Desktop\Crud\Proyecto\Dominio\bin\Debug\Domain.pdb
+C:\Users\Luis\Desktop\Crud\Proyecto\Dominio\bin\Debug\DataAccess.dll
+C:\Users\Luis\Desktop\Crud\Proyecto\Dominio\bin\Debug\MySql.Data.dll
+C:\Users\Luis\Desktop\Crud\Proyecto\Dominio\bin\Debug\Google.Protobuf.dll
+C:\Users\Luis\Desktop\Crud\Proyecto\Dominio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Luis\Desktop\Crud\Proyecto\Dominio\bin\Debug\DataAccess.pdb
+C:\Users\Luis\Desktop\Crud\Proyecto\Dominio\bin\Debug\MySql.Data.xml
+C:\Users\Luis\Desktop\Crud\Proyecto\Dominio\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Luis\Desktop\Crud\Proyecto\Dominio\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Crud\Proyecto\Dominio\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Luis\Desktop\Crud\Proyecto\Dominio\obj\Debug\Domain.dll
+C:\Users\Luis\Desktop\Crud\Proyecto\Dominio\obj\Debug\Domain.pdb
+C:\Users\Luis\Desktop\Crud\Proyecto - copia\Dominio\bin\Debug\Domain.dll
+C:\Users\Luis\Desktop\Crud\Proyecto - copia\Dominio\bin\Debug\Domain.pdb
+C:\Users\Luis\Desktop\Crud\Proyecto - copia\Dominio\bin\Debug\DataAccess.dll
+C:\Users\Luis\Desktop\Crud\Proyecto - copia\Dominio\bin\Debug\MySql.Data.dll
+C:\Users\Luis\Desktop\Crud\Proyecto - copia\Dominio\bin\Debug\Google.Protobuf.dll
+C:\Users\Luis\Desktop\Crud\Proyecto - copia\Dominio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Luis\Desktop\Crud\Proyecto - copia\Dominio\bin\Debug\DataAccess.pdb
+C:\Users\Luis\Desktop\Crud\Proyecto - copia\Dominio\bin\Debug\MySql.Data.xml
+C:\Users\Luis\Desktop\Crud\Proyecto - copia\Dominio\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Luis\Desktop\Crud\Proyecto - copia\Dominio\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Crud\Proyecto - copia\Dominio\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Luis\Desktop\Crud\Proyecto - copia\Dominio\obj\Debug\Domain.dll
+C:\Users\Luis\Desktop\Crud\Proyecto - copia\Dominio\obj\Debug\Domain.pdb

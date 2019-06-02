@@ -1,0 +1,71 @@
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\Domain\bin\Debug\Domain.dll
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\Domain\bin\Debug\Domain.pdb
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\Domain\bin\Debug\Domain.xml
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\Domain\bin\Debug\DataAccess.dll
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\Domain\bin\Debug\DataAccess.pdb
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\Domain\bin\Debug\DataAccess.xml
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\Domain\obj\Debug\Domain.vbprojAssemblyReference.cache
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\Domain\obj\Debug\Domain.Resources.resources
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\Domain\obj\Debug\Domain.vbproj.GenerateResource.cache
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\Domain\obj\Debug\Domain.vbproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\Domain\obj\Debug\Domain.vbproj.CopyComplete
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\Domain\obj\Debug\Domain.dll
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\Domain\obj\Debug\Domain.xml
+C:\Users\Luis\Documents\Tutoriales\CrudLayered_VB\Domain\obj\Debug\Domain.pdb
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\bin\Debug\Domain.dll
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\bin\Debug\Domain.pdb
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\bin\Debug\Domain.xml
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\bin\Debug\DataAccess.dll
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\bin\Debug\MySql.Data.dll
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\bin\Debug\Google.Protobuf.dll
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\bin\Debug\DataAccess.pdb
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\bin\Debug\DataAccess.xml
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\bin\Debug\DataAccess.dll.config
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\bin\Debug\MySql.Data.xml
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\obj\Debug\Domain.vbprojAssemblyReference.cache
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\obj\Debug\Domain.Resources.resources
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\obj\Debug\Domain.vbproj.GenerateResource.cache
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\obj\Debug\Domain.vbproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\obj\Debug\Domain.vbproj.CopyComplete
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\obj\Debug\Domain.dll
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\obj\Debug\Domain.xml
+C:\Users\Luis\Desktop\CrudLayered_VB\Domain\obj\Debug\Domain.pdb
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\bin\Debug\Domain.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\bin\Debug\Domain.pdb
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\bin\Debug\Domain.xml
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\bin\Debug\DataAccess.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\bin\Debug\MySql.Data.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\bin\Debug\Google.Protobuf.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\bin\Debug\DataAccess.pdb
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\bin\Debug\DataAccess.xml
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\bin\Debug\DataAccess.dll.config
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\bin\Debug\MySql.Data.xml
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\obj\Debug\Domain.vbprojAssemblyReference.cache
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\obj\Debug\Domain.Resources.resources
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\obj\Debug\Domain.vbproj.GenerateResource.cache
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\obj\Debug\Domain.vbproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\obj\Debug\Domain.vbproj.CopyComplete
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\obj\Debug\Domain.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\obj\Debug\Domain.xml
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB\Domain\obj\Debug\Domain.pdb
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\bin\Debug\Domain.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\bin\Debug\Domain.pdb
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\bin\Debug\Domain.xml
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\bin\Debug\DataAccess.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\bin\Debug\MySql.Data.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\bin\Debug\Google.Protobuf.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\bin\Debug\DataAccess.pdb
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\bin\Debug\DataAccess.xml
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\bin\Debug\DataAccess.dll.config
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\bin\Debug\MySql.Data.xml
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\obj\Debug\Domain.vbprojAssemblyReference.cache
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\obj\Debug\Domain.Resources.resources
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\obj\Debug\Domain.vbproj.GenerateResource.cache
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\obj\Debug\Domain.vbproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\obj\Debug\Domain.vbproj.CopyComplete
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\obj\Debug\Domain.dll
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\obj\Debug\Domain.xml
+C:\Users\Luis\Desktop\Crud\CrudLayered_VB - copia\Domain\obj\Debug\Domain.pdb
